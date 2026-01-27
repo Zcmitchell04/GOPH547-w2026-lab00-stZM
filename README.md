@@ -10,7 +10,7 @@ Introductory lab to ensure proper setup (part A) and beginner exercises (part B)
 the package:**<br>
 First, use you machine terminal to navigate into where you want to save the project. You can then clone the repository
 using HTTPS by taking [github]https://github.com/Zcmitchell04/GOPH547-w2026-lab00-stZM.git and
-using the command 'git clone [github]https://github.com/Zcmitchell04/GOPH547-w2026-lab00-stZM.git' in your machine terminal. 
+using the command 'git clone https://github.com/Zcmitchell04/GOPH547-w2026-lab00-stZM.git' in your machine terminal. 
 Once that is completed, you can open the project in your preferred IDLE and navigate to it in your terminal using the
 command 'cd GOPH547-w2026-lab00-stZM'.<br>
 
